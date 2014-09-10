@@ -1,4 +1,4 @@
 placerichie
 ===========
 
-A image placeholder containing only Lionel Richie
+A image placeholder service containing only pictures of Lionel Richie
