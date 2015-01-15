@@ -1,4 +1,5 @@
 placerichie
 ===========
 
-A image placeholder service containing only pictures of Lionel Richie
+A placeholder repository for an image placeholder service containing only pictures of Lionel Richie
+
